@@ -1,0 +1,11 @@
+GIT Fundamental adalah Perintah dasar yang digunakan untuk mengoperasikan GIT.
+Git Init digunakan untuk menginisialisasi repository
+Git Config digunakan untuk mengkonfigurasi email dan username di lokal maupun server global seperti di github ataupun gitlab.
+Git Status digunakan untuk mengetahui status file Untracked, staging area, modified.
+Git add . digunakan untuk memasukan file ke staging area.
+Git commit digunakan untuk mencatat perubahan yang dilakukan.
+Git log digunakan untuk melihat riwayat commit.
+Git Clone digunakan untuk mengcopy repo dari server.
+Git Remote Semacam api untuk berinteraksi dari client dengan server.
+Git Push digunakan Untuk mengirimkan commit ke server
+Git Pull untuk mengambil commit dari server jika ada perubahan di server yang dibuat oleh branch lain.
